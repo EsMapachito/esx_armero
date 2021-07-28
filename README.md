@@ -17,6 +17,6 @@ By Mapachito
  - Add ```ensure esx_armero``` to your server.cfg
 
 
-### GNU LICENSE, fell free to use it but not to sell it.
+### GNU LICENSE, feel free to use it but not to sell it.
 
 ### More info --> nocturnecity.es.
